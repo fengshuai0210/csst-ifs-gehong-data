@@ -21,5 +21,5 @@ All files are required to run GEHONG in physical mode (stellar populations, emis
 Clone this repository to access the data files:
 
 ```bash
-git clone https://github.com/yourname/csst-ifs-gehong-data.git
+git clone https://github.com/fengshuai0210/csst-ifs-gehong-data.git
 
