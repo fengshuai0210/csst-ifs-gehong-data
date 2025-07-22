@@ -39,7 +39,7 @@ Then set the path to this folder in your GEHONG configuration or scripts as need
 
 ## 📌 Notes
 
-* * This repository only contains static input data. Simulation logic is maintained in the [GEHONG](https://github.com/fengshuai0210/csst-ifs-gehong).
+* This repository only contains static input data. Simulation logic is maintained in the [GEHONG](https://github.com/fengshuai0210/csst-ifs-gehong).
 
 ## 📄 License
 
